@@ -45,9 +45,14 @@ By using this app, you signify your acceptance of this policy. If you do not agr
 
 7. Contacting Us
 
+  
+8. Delete Account : To delete your account, please contact us via email and we will delete your account
+
+
+
 If you have any questions about this Privacy Policy, the practices of this app, or your dealings with this app, please contact us at:
 
-[Your Contact Information]
-[Your Email Address]
-[Your Phone Number]
-[Your Address]
+
+info@firststepsye.com
+
+
