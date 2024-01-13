@@ -2,13 +2,13 @@ Privacy Policy for First Steps
 
 Last updated: [Date]
 
-This Privacy Policy outlines how [Your App Name] ("us", "we", or "our") collects, uses, maintains, and discloses information collected from users ("user" or "you") of the [Your App Name] mobile application.
+This Privacy Policy outlines how First Steps ("us", "we", or "our") collects, uses, maintains, and discloses information collected from users ("user" or "you") of the First Steps mobile application.
 
 1. Information We Collect
 
 1.1. Personal Information
 
-[Your App Name] may collect personal information from users, such as names, email addresses, phone numbers, or any other information that users provide voluntarily. We collect this information only when users willingly submit it, for example, when registering for an account or filling out a form within the app.
+First Steps may collect personal information from users, such as names, email addresses, phone numbers, or any other information that users provide voluntarily. We collect this information only when users willingly submit it, for example, when registering for an account or filling out a form within the app.
 
 1.2. Non-personal Information
 
@@ -37,7 +37,7 @@ We do not sell, trade, or rent users' personal identification information to oth
 
 5. Changes to This Privacy Policy
 
-[Your App Name] has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the top of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
+First Steps has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the top of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
 
 6. Your Acceptance of These Terms
 
