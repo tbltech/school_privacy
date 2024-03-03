@@ -1,7 +1,5 @@
 Privacy Policy for First Steps
 
-Last updated: [Date]
-
 This Privacy Policy outlines how First Steps ("us", "we", or "our") collects, uses, maintains, and discloses information collected from users ("user" or "you") of the First Steps mobile application.
 
 1. Information We Collect
